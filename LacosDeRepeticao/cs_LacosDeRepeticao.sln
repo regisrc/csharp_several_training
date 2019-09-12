@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoWhile", "LacosDeRepeticao\UtilizandoWhile.csproj", "{8A88B582-BF7F-47E4-AA5D-CE6E27CC3377}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OndasEstruturadas", "OndasEstrturadas\OndasEstruturadas.csproj", "{5F1F5580-A874-47C7-ABE4-8E09305EE426}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OndasEstruturadas", "OndasEstrturadas\OndasEstruturadas.csproj", "{5F1F5580-A874-47C7-ABE4-8E09305EE426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forPalavras", "ConsoleApp1\forPalavras.csproj", "{C8E1E937-3526-4A1A-AA48-EF383EAAF9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whilePalavras", "whilePalavras\whilePalavras.csproj", "{C36D979A-A8A2-430A-BFC3-C7850980A0F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{5F1F5580-A874-47C7-ABE4-8E09305EE426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F1F5580-A874-47C7-ABE4-8E09305EE426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F1F5580-A874-47C7-ABE4-8E09305EE426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E1E937-3526-4A1A-AA48-EF383EAAF9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E1E937-3526-4A1A-AA48-EF383EAAF9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E1E937-3526-4A1A-AA48-EF383EAAF9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E1E937-3526-4A1A-AA48-EF383EAAF9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36D979A-A8A2-430A-BFC3-C7850980A0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36D979A-A8A2-430A-BFC3-C7850980A0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36D979A-A8A2-430A-BFC3-C7850980A0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36D979A-A8A2-430A-BFC3-C7850980A0F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
