@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoWhile", "LacosDeRepeticao\UtilizandoWhile.csproj", "{8A88B582-BF7F-47E4-AA5D-CE6E27CC3377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OndasEstruturadas", "OndasEstrturadas\OndasEstruturadas.csproj", "{5F1F5580-A874-47C7-ABE4-8E09305EE426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A88B582-BF7F-47E4-AA5D-CE6E27CC3377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A88B582-BF7F-47E4-AA5D-CE6E27CC3377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A88B582-BF7F-47E4-AA5D-CE6E27CC3377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A88B582-BF7F-47E4-AA5D-CE6E27CC3377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1F5580-A874-47C7-ABE4-8E09305EE426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1F5580-A874-47C7-ABE4-8E09305EE426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1F5580-A874-47C7-ABE4-8E09305EE426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1F5580-A874-47C7-ABE4-8E09305EE426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69333CEC-ED1B-4AE8-86D4-68631011E5D4}
+	EndGlobalSection
+EndGlobal
