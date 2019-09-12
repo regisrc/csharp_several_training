@@ -10,7 +10,7 @@ namespace OndasEstrturadas
             var caracterCresce = $"\\***\\";
             while (true)
             {
-                for (int i = 0; i <= 200; i++)
+                for (int i = 0; i <= 100; i++)
                 {
                     for (int j = 0; j < i; j++)
                     {
@@ -18,7 +18,7 @@ namespace OndasEstrturadas
                     }
                     Console.WriteLine($"{caracterCresce}");
                 }
-                for (int i = 200; i >= 0; i--)
+                for (int i = 100; i >= 0; i--)
                 {
                     for (int j = 0; j < i; j++)
                     {
