@@ -7,19 +7,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizandoWhile", "LacosDeR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OndasEstruturadas", "OndasEstrturadas\OndasEstruturadas.csproj", "{5F1F5580-A874-47C7-ABE4-8E09305EE426}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forPalavras", "ConsoleApp1\forPalavras.csproj", "{C8E1E937-3526-4A1A-AA48-EF383EAAF9B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "forPalavras", "ConsoleApp1\forPalavras.csproj", "{C8E1E937-3526-4A1A-AA48-EF383EAAF9B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whilePalavras", "whilePalavras\whilePalavras.csproj", "{C36D979A-A8A2-430A-BFC3-C7850980A0F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "whilePalavras", "whilePalavras\whilePalavras.csproj", "{C36D979A-A8A2-430A-BFC3-C7850980A0F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area de triangulo", "Area de triangulo\Area de triangulo.csproj", "{4AB342DA-7890-4CB6-858E-CC999F3B6354}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area de triangulo", "Area de triangulo\Area de triangulo.csproj", "{4AB342DA-7890-4CB6-858E-CC999F3B6354}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosForWhile", "ExerciciosForWhile\ExerciciosForWhile.csproj", "{0C1B7D9E-655D-41C0-A549-28A5EE450DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosForWhile", "ExerciciosForWhile\ExerciciosForWhile.csproj", "{0C1B7D9E-655D-41C0-A549-28A5EE450DF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeroPrimosRefactor", "numeroPrimosRefactor\numeroPrimosRefactor.csproj", "{3782FCE5-02FD-41E0-8310-80A748659B4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "numeroPrimosRefactor", "numeroPrimosRefactor\numeroPrimosRefactor.csproj", "{3782FCE5-02FD-41E0-8310-80A748659B4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindByWhile", "FindByWhile\FindByWhile.csproj", "{16B4D4DD-1AE9-4B01-B580-EB4ADCE6472F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindByWhile", "FindByWhile\FindByWhile.csproj", "{16B4D4DD-1AE9-4B01-B580-EB4ADCE6472F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOf", "IndexOf\IndexOf.csproj", "{03464371-0FDA-417A-9FCA-B0B6AB246ABC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexOf", "IndexOf\IndexOf.csproj", "{03464371-0FDA-417A-9FCA-B0B6AB246ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split", "Split\Split.csproj", "{5585561B-E0CB-47FE-93D7-C25B1368430C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PorIdade", "PorIdade\PorIdade.csproj", "{8A909ABE-479D-47C2-9937-7EE56131F062}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{03464371-0FDA-417A-9FCA-B0B6AB246ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03464371-0FDA-417A-9FCA-B0B6AB246ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03464371-0FDA-417A-9FCA-B0B6AB246ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5585561B-E0CB-47FE-93D7-C25B1368430C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5585561B-E0CB-47FE-93D7-C25B1368430C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5585561B-E0CB-47FE-93D7-C25B1368430C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5585561B-E0CB-47FE-93D7-C25B1368430C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A909ABE-479D-47C2-9937-7EE56131F062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A909ABE-479D-47C2-9937-7EE56131F062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A909ABE-479D-47C2-9937-7EE56131F062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A909ABE-479D-47C2-9937-7EE56131F062}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
